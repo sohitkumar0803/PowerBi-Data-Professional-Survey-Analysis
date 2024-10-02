@@ -1,6 +1,6 @@
 ### PowerBI Data Professional Survey Analysis
 
-**Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiYTBhOWNjMzEtY2Q2Zi00ZTM0LTgwYjAtNjRmZWQzMWQ5MzZiIiwidCI6Ijc2ZTVlYmRiLWExNzctNDExMS04YjA4LWU2ZThmMTAzM2M3NCJ9
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYTBhOWNjMzEtY2Q2Zi00ZTM0LTgwYjAtNjRmZWQzMWQ5MzZiIiwidCI6Ijc2ZTVlYmRiLWExNzctNDExMS04YjA4LWU2ZThmMTAzM2M3NCJ9)
 
 **Description:**
 Developed an insightful PowerBI dashboard to analyze survey responses from data professionals. Utilized advanced data visualization techniques to present key metrics and insights, including:
